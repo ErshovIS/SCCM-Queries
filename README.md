@@ -1,2 +1,4 @@
 # SCCM-Queries
-Application Deployment Status folder contains SQL queries and RDL-report to retrieve SCCM application deployment status with user information
+2020-08-01 - current content
+1. Application Deployment Status   
+2. Application Catalog Requested Software
